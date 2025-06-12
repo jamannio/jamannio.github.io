@@ -176,3 +176,14 @@ footer {
     left: 0;
     color: var(--accent-color); /* This will make the arrow match your theme color */
 }
+
+/* Decrypt effect styles */
+.decrypt-effect {
+    position: relative;
+    cursor: pointer;
+    transition: color 0.3s ease;
+}
+
+.decrypt-effect:hover {
+    text-decoration: none;
+}
