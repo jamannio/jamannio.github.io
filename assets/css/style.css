@@ -140,10 +140,6 @@ footer {
     transform: scale(1.2) rotate(15deg);
 }
 
-/* Make sure all color options maintain visibility */
-.color-switcher.bitcoin-mode {
-    display: flex; /* Ensure it stays visible */
-}
 
 /* Mobile responsiveness */
 @media (max-width: 600px) {
