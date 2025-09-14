@@ -1,1 +1,6 @@
 run in cmd: "bundle exec jekyll serve" to start developing server
+
+Fonts used/tried:
+- Courier New (original)
+- JetBrains Mono
+- Source Code Pro (current)

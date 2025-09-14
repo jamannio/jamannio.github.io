@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@400;700&display=swap');
 
 /* Root variables */
 :root {
@@ -8,7 +8,7 @@
 
 /* Base styles */
 body {
-    font-family: "JetBrains Mono", Arial, sans-serif;
+    font-family: "Source Code Pro", monospace;
     line-height: 1.6;
     color: #ffffff;
     max-width: 800px;
