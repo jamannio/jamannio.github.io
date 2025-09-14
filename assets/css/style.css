@@ -179,13 +179,6 @@ footer {
     color: var(--accent-color); /* This will make the arrow match your theme color */
 }
 
-/* Completely disable AnchorJS links on headings without links */
-h1 .anchorjs-link,
-h2:not(:has(a)) .anchorjs-link {
-    display: none !important;
-    pointer-events: none !important;
-    visibility: hidden !important;
-}
 
 /* Decrypt effect styles */
 .decrypt-effect {
