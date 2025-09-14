@@ -8,7 +8,7 @@ function createDecryptEffect(element) {
     element.addEventListener('mouseenter', () => {
         currentIndex = 0;
         // Calculate speed based on text length - longer texts decrypt slower
-        const baseSpeed = 1/3;
+        const baseSpeed = 2/3;
         const lengthFactor = Math.max(0.5, Math.min(2, originalText.length / 10)); // Scale factor between 0.5x and 2x
         const decryptSpeed = baseSpeed / lengthFactor;
         
